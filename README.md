@@ -1,1 +1,2 @@
-# GitDemooo
+# Visio Studio java compiling problems record
+This is a simple question yet may drive ppl like me crazy when your code doesn't work out in Visio Studio...
